@@ -1,0 +1,60 @@
+#head{
+    height: 50px;
+    background-color:#fefae0;
+    color:#dda15e;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#photo{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #e2e7e6;
+}
+
+.box{
+    border: 2px solid black;
+    height: 270px;
+    width: 23%;
+    background-color: white;
+    background-size: cover;
+    margin: 5px 5px 5px 5px;
+}
+
+#editing{
+    background-color:#bc6c25;
+    border: 2px solid gray;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 140px;
+    color: white;
+}
+
+.box1:hover{
+    border: 3px solid #fcf6bd;
+    transform: scale(1.5);
+
+}
+
+.box2:hover{
+    border: 3px solid #fcf6bd;
+    transform: scale(1.5);
+
+}
+
+.box3:hover{
+    border: 3px solid #fcf6bd;
+    transform: scale(1.5);
+
+}
+
+.box4:hover{
+    border: 3px solid #fcf6bd;
+    transform: scale(1.5);
+
+}
+
+#full{
+    height: 550px;
+    background-size:cover;
+    background-image: url(cap2.jpg);
+}

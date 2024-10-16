@@ -1,0 +1,113 @@
+#head{
+    height: 50px;
+    background-color:#9d8189;
+    color:aqua;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#photo{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: #e2e7e6;
+    display: flex;
+    
+}
+
+.box{
+    border: 2px solid black;
+    height: 270px;
+    width: 23%;
+    background-color: white;
+    background-size: cover;
+    margin: 5px 5px 5px 5px;
+}
+
+.box1:hover{
+    border: 3px solid #fcf6bd;
+    transform: scale(1.5);
+
+}
+
+.box2:hover{
+    border: 3px solid #fcf6bd;
+    transform: scale(1.5);
+
+}
+
+.box3:hover{
+    border: 3px solid #fcf6bd;
+    transform: scale(1.5);
+
+}
+
+.box4:hover{
+    border: 3px solid #fcf6bd;
+    transform: scale(1.5);
+
+}
+
+
+.box5:hover{
+    border: 3px solid #fcf6bd;
+    transform: scale(1.5);
+}
+
+.box6:hover{
+    border: 3px solid #fcf6bd;
+    transform: scale(1.5);
+}
+
+.box7:hover{
+    border: 3px solid #fcf6bd;
+    transform: scale(1.5);
+}
+
+.box8:hover{
+    border: 3px solid #fcf6bd;
+    transform: scale(1.5);
+}
+
+.box9:hover{
+    border: 3px solid #fcf6bd;
+    transform: scale(1.5);
+}
+
+.box10:hover{
+    border: 3px solid #fcf6bd;
+    transform: scale(1.5);
+}
+
+.box11:hover{
+    border: 3px solid #fcf6bd;
+    transform: scale(1.5);
+}
+
+.box12:hover{
+    border: 3px solid #fcf6bd;
+    transform: scale(1.5);
+}
+
+#create{
+    height: 50px;
+    background-color: aqua;
+    text-align: center;
+    font-size: 20px;font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #606c38;
+    border: 5px solid grey;
+
+}
+
+#design{
+    border: 2px solid grey;
+    background-color: #a2d2ff;
+    height: 50px;
+}
+
+#iframe{
+    height: 200px;
+    display: flex;
+    justify-content: center;
+
+}

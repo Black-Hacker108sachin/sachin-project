@@ -1,0 +1,15 @@
+.loder{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 20px solid #4ECDC4;
+    border-top:20px solid #1a535c;
+    animation: spinanimate 3s ease-in 0s infinite normal;
+}
+@keyframes spinanimate {
+    from{
+        transform: rotate(odeg);
+    }
+     to{
+        transform:rotate(360deg);     }
+}

@@ -1,0 +1,43 @@
+div{
+   height:450px;
+   width: 180px;
+    background-color:rgb(128, 128, 128);
+    padding:  10px 10px 10px;
+}
+
+
+
+
+
+#one{
+    height: 100px;
+    width: 100px;  
+    background-color: red;
+    border-radius: 50%;  
+    border-style: dashed;
+    padding-bottom: 5px;
+    margin:5px 5px 5px 5px;
+    text-align: center;
+}
+
+#two{
+    height: 100px;
+    width: 100px;  
+    background-color: yellow;
+    border-radius: 50%;  
+    border-style: dashed;
+    padding-bottom: 5px;
+    margin:5px 5px 5px 5px;
+    text-align: center;
+}
+
+#three{
+    height: 100px;
+    width: 100px;  
+    background-color: Green;
+    border-radius: 50%;  
+    border-style: dashed;
+    padding-bottom: 5px;
+    margin:5px 5px 5px 5px;
+    text-align: center;
+}
